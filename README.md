@@ -22,7 +22,7 @@ The dashboard provides a breakdown of sales according to different coffee produc
 - Desserts
 
 ## Dashboard Preview
-[https://github.com/shahadFawaz99/Coffee-Sales-Dashboard-2023/blob/main/dashboard.jpg](Dashboard Screenshot)
+[https://github.com/shahadFawaz99/Coffee-Sales-Dashboard-2023/blob/main/dashboard.jpg]    (Dashboard Screenshot)
 
 ## Getting Started
 To explore the dashboard:
