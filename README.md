@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard 2023
 
 ## Overview
-This project presents a comprehensive dashboard analyzing coffee sales across various branches in Egypt, Jordan, United Arab Emirates, Saudi Arabia, Kuwait, and Qatar for the year *2023*. The dashboard utilizes Excel to visualize sales data and provides insights into sales performance by product category.
+This project presents a comprehensive dashboard analyzing coffee sales across various branches in **Egypt**, **Jordan**, **United Arab Emirates**, **Saudi Arabia**, **Kuwait**, and **Qatar** for the year **2023**. The dashboard utilizes Excel to visualize sales data and provides insights into sales performance by product category.
 
 ## Sales Insights
 The dashboard highlights:
@@ -21,7 +21,15 @@ The dashboard provides a breakdown of sales according to different coffee produc
 - Mocha
 - Desserts
 
+## Dashboard Preview
+[](Dashboard Screenshot)
+
 ## Getting Started
 To explore the dashboard:
 1. Download the Excel file from the repository.
 2. Open it using Microsoft Excel or any compatible spreadsheet software.
+
+## Contact Information
+For any inquiries or feedback, feel free to reach out:
+- *Email*:
+-  [Shahadfwaz2@gmail.com]
